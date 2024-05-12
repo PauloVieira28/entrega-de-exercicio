@@ -1,3 +1,3 @@
-## desafio da dio
+##Desafio na DIO
 
-## o desafio era simplesmente receber valores dentro das variáveis e dar print no prompt, fui um pouquinho além disso e coloquei um do while para pode filtrar melhor o que o usuário poderia ou não digitar como resposta.
+##O desafio proposto era bastante simples: receber valores nas variáveis e exibi-los no prompt. Porém, eu decidi ir um pouco além e adicionei uma estrutura de repetição do-while para filtrar melhor as respostas que o usuário poderia fornecer.
